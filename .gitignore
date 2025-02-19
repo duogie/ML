@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+operation recommend NETTSPEND/albums_0-999.json
+operation recommend NETTSPEND/artists_0-999.json
+operation recommend NETTSPEND/songs_0-999.json
+operation recommend NETTSPEND/tracks.csv
